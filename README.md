@@ -10,4 +10,4 @@ Characteristics
  
  •Cheats Floating Menu
 
- •Comes with tricks included The path to place mods or skins goes in the android/data/com.gtasa.lite folder 
+The path to place mods or skins goes in the android/data/com.gtasa.lite folder 
