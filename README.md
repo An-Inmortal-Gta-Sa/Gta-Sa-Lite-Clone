@@ -1,3 +1,5 @@
+![IMG_20250112_134330](https://github.com/user-attachments/assets/f60e3013-82a4-4436-8778-b8d574efbd2f)
+
 Gta Sa Lite Clone Mod Version
 
 Characteristics
