@@ -1,4 +1,4 @@
-![IMG_20250112_134330](https://github.com/user-attachments/assets/f60e3013-82a4-4436-8778-b8d574efbd2f)
+![IMG_20250112_134648](https://github.com/user-attachments/assets/86fa0ea4-f51a-4f03-8924-f9833c5d85a1)
 
 Gta Sa Lite Clone Mod Version
 
