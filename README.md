@@ -1,6 +1,6 @@
 # Gta Sa Lite Clone
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac87d61e-2098-4694-b03d-b71aed21caf7" />
+  <img src="https://github.com/user-attachments/assets/9cdfc591-c988-47ea-b3c3-ec967b4253ac" />
 </p>
 
 ## Features
