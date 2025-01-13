@@ -1,5 +1,7 @@
 # Gta Sa Lite Clone
-![IMG_20250112_135201](https://github.com/user-attachments/assets/9cdfc591-c988-47ea-b3c3-ec967b4253ac)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac87d61e-2098-4694-b03d-b71aed21caf7" />
+</p>
 
 ## Features
 - It no longer weighs more than 2 GB, the weight of the game has been reduced
