@@ -1,4 +1,4 @@
-# Gta Sa Lite Clone Mod Version
+# Gta Sa Lite Clone
 ![IMG_20250112_135201](https://github.com/user-attachments/assets/9cdfc591-c988-47ea-b3c3-ec967b4253ac)
 
 ## Features
