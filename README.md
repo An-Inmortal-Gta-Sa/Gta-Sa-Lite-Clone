@@ -6,4 +6,4 @@
 - Does not replace the Gta San Andreas that you have installed
 - The Apk Comes With Cleo so you can add mods
 - Cheats Floating Menu
-- The path to install mods or skins goes in the android/data/com.gtasa.lite folder.
+- The path to install mods or skins goes in the android/data/com.gtasa.lite folder
